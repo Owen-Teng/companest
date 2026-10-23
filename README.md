@@ -1,2 +1,95 @@
-# companest
-Companest 伴境: AI work companions, animated workspace and Windows mail preview. Public showcase; source and installers are not public yet.
+# Companest · 伴境 — AI work companions and a Windows mail preview
+
+## Your AI world for work.
+
+**Work, with companions.**
+
+[简体中文](README.zh-CN.md) · [Personal profile](https://github.com/Owen-Teng) · [Product story](docs/ORIGIN.md) · [Mail capabilities](docs/MAIL-FEATURES.md)
+
+![Actual Companest home screen with fictional data](docs/media/companest-world.png)
+
+*Actual home screen after renaming. The window and text use the new name; original scene artwork retains Friday branding.*
+
+## Why build it?
+
+Companest began with an HR AI exploration and developed through ongoing discussion, design, and feedback with AI into a broader workplace Agent OS direction. I focus on approachable entry points, clear context and follow-up, and keeping human judgment involved.
+
+Rooms organize work entry points, animation creates a welcoming environment, and the matter board shows what needs attention. Suggestions can be reviewed, replies edited, and important actions explicitly decided. HR, project coordination, and customer communication are possible settings.
+
+**My contribution: product direction, interaction design, front-end exploration, and product presentation, co-building with Robinson AI Lab.**
+
+## Six companions, progressively unlocked workflows
+
+Mail is the first usable preview workflow. All assistants have scene animations; other capabilities unlock as development and verification progress.
+
+### Mail assistant · First usable workflow
+
+![Mail assistant](docs/media/assistant-mail.gif)
+
+Review messages and conversation context, edit replies, and keep following the same matter.
+
+The mail preview includes built-in examples and 163 Mail onboarding; AI suggestions require your own supported setup.
+
+### WeChat assistant · Experimental · not unlocked
+
+![WeChat assistant](docs/media/assistant-wechat.gif)
+
+Planned: identify actionable information in relevant conversations and organize context and next steps.
+
+Animation and experimental modules exist; the complete desktop workflow is not connected.
+
+### Feishu assistant · Workflow not unlocked
+
+![Feishu assistant](docs/media/assistant-feishu.gif)
+
+Planned: connect work messages and collaboration items, bringing requests that need your attention together.
+
+Scenes and animation exist; the business workflow is not connected. Messages, approvals, and calendars are not claimed as all usable.
+
+### Knowledge assistant · Workflow not unlocked
+
+![Knowledge assistant](docs/media/assistant-knowledge.gif)
+
+Planned: search and organize selected materials while keeping references back to the originals.
+
+Animation and an entry point are visible; the general knowledge workflow is not connected.
+
+### File assistant · Workflow not unlocked
+
+![File assistant](docs/media/assistant-files.gif)
+
+Planned: locate files within a selected scope and make their content and version clues easier to understand.
+
+Animation and an entry point exist; the file workflow is not connected. Automatic reorganization or deletion is not promised.
+
+### Answer assistant · Workflow not unlocked
+
+![Answer assistant](docs/media/assistant-qa.gif)
+
+Planned: answer from connected materials and current matters, showing evidence and uncertainty.
+
+Animation and an entry point exist; general answering is not connected.
+
+## Mail: from a message to continued follow-up
+
+![Actual mail screenshot montage with fictional data](docs/media/mail-scenes.gif)
+
+Enter the mail room → read the matter and context → edit the draft → decide → review a later update. In the example, delivery moves from 20:00 to 22:00; the earlier draft is retained for review against the new context.
+
+*Real screenshot montage from before renaming, with isolated fictional data, reading holds, and transitions; not a continuous recording. [MP4](docs/media/mail-scenes.mp4)*
+
+[Implemented capabilities, five actual screens, and requirements](docs/MAIL-FEATURES.md)
+
+## Current stage and access
+
+Windows mail preview, application 0.3.26. Matters, drafts, and follow-up are implemented. 163 Mail and optional AI suggestions require the user’s own supported setup. This presentation does not demonstrate a new live-mail or model session, and no measured productivity gain is claimed.
+
+**Product information and demonstrations are public; source and installers are not publicly available yet.** [Access and data boundaries](docs/ACCESS.md)
+
+The earlier public work is available in [FridayOS 1.0](https://github.com/Robinson-AI-Lab/FridayOS1.0). It documents an earlier stage and is not a distribution of the current Companest mail preview.
+
+## Follow development and share feedback
+
+Star or watch this showcase for updates. [Share a concrete workflow question or preview feedback](https://github.com/Owen-Teng/companest/issues/new?template=feedback.yml). Please use fictional examples and never post mailbox credentials or private messages.
+
+This repository tracks the public showcase independently. Repository visits and stars do not measure installed or active users.

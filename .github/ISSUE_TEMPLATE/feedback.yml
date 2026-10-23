@@ -1,0 +1,19 @@
+name: 展示反馈 / Showcase feedback
+description: 说明你希望完成的工作，以及哪里不清楚 / Share a workflow or preview question
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "目前公开的是展示与文档，尚无公共安装包。请勿填写真实邮件、凭据或私人信息。Public showcase only; no public installer yet. Never post credentials or private messages."
+  - type: textarea
+    id: task
+    attributes:
+      label: 想完成什么工作 / Intended task
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: 看到了什么，哪里需要改进 / Observation or suggestion
+    validations:
+      required: true
