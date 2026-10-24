@@ -1,23 +1,21 @@
-# I’m building a tiny world for work — starting with email
+# Companest: a little world you can work in
 
-![Original mail companion animation](media/assistant-mail.gif)
+What if opening your inbox felt like walking into a little room? I am building Companest with Robinson AI Lab, exploring animated companions, rooms and a matter board as approachable entry points to work with AI.
 
-[Watch the 20-second captioned clip](media/companest-reddit-20s.mp4)
+## 30 seconds of real interaction: enter, edit, save
 
-What if opening your inbox felt like walking into a little room?
+[![Real mail workflow, redacted](media/companest-real-mail-30s-redacted.gif)](media/companest-real-mail-30s-redacted.mp4)
 
-I’m building **Companest** with Robinson AI Lab: a Windows workspace with animated companions and rooms for different kinds of work. Email is the first workflow we’re exploring.
+[Watch the HD recording](media/companest-real-mail-30s-redacted.mp4)
 
-Here’s the small moment in this preview:
+Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 
-- A project delivery is due at **8 PM**. You read the context and write a reply.
-- A new message moves it to **10 PM**.
-- The update stays with the same matter. Your draft stays too, with a reminder to review it before replying.
+This 30-second recording keeps the real mouse clicks, character animation, interface transitions and save feedback. Names, company references and sender/recipient addresses are mosaicked.
 
-The room gets you in. The board shows what needs you. The decision stays yours.
+*Edited real desktop footage with gaps shortened. Suggestions were generated during preparation; the clip reopens them and does not demonstrate first-generation speed. The draft was saved locally; no email was sent. The Chinese interface still shows Friday branding.*
 
-**Would this room make you want to check your work—or would you prefer a plain list?**
+Six companions have scene animations. Mail is the first usable preview; the other five complete workflows unlock progressively. Source and installers are not public yet.
 
-[More screenshots and the mail walkthrough on GitHub](https://github.com/Owen-Teng/companest)
+Would a room like this make you more willing to check your work, or would you prefer a plain list?
 
-*Early Windows preview; no public installer or source yet. The clip combines original animation and actual app screenshots using fictional data, not a continuous recording. The interface is in Chinese; older screenshots still say Friday. Other rooms are visual previews. Writing assisted by Codex.*
+[Companest](https://github.com/Owen-Teng/companest) · Writing assisted by Codex.

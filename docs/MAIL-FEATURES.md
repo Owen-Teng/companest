@@ -1,5 +1,17 @@
 # Mail assistant: implemented capabilities and how to try them
 
+## 30 seconds of real interaction: enter, edit, save
+
+[![Real mail workflow, redacted](media/companest-real-mail-30s-redacted.gif)](media/companest-real-mail-30s-redacted.mp4)
+
+[Watch the HD recording](media/companest-real-mail-30s-redacted.mp4)
+
+Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
+
+This 30-second recording keeps the real mouse clicks, character animation, interface transitions and save feedback. Names, company references and sender/recipient addresses are mosaicked.
+
+*Edited real desktop footage with gaps shortened. Suggestions were generated during preparation; the clip reopens them and does not demonstrate first-generation speed. The draft was saved locally; no email was sent. The Chinese interface still shows Friday branding.*
+
 Companest starts with a concrete workflow: understand a conversation, prepare a reply, make the decision, and follow the same matter as circumstances change.
 
 ## A project example in the actual application

@@ -1,23 +1,21 @@
-# 让邮箱有一扇门：Companest 伴境
+# 伴境：让工作有一个愿意走进去的空间
 
-如果打开邮箱，像走进一间小屋，会怎样？
+如果打开邮箱，像走进一间小屋，会怎样？我和 Robinson AI Lab 正在探索用动画伙伴、房间和事项板，让 AI 工作流程更容易理解和参与。
 
-![邮件伙伴原有场景动画](https://raw.githubusercontent.com/Owen-Teng/companest/main/docs/media/assistant-mail.gif)
+## 30 秒实机操作：从进入到保存回复
 
-我是 Owen Teng，与 Robinson AI Lab 一起做 **Companest（伴境）**：有动画伙伴、用不同房间承载工作的 Windows 工作空间。邮件是首先探索的流程。
+[![邮件助理真实操作，已脱敏](media/companest-real-mail-30s-redacted.gif)](media/companest-real-mail-30s-redacted.mp4)
 
-这次展示一个很具体的变化：
+[播放高清实录](media/companest-real-mail-30s-redacted.mp4)
 
-1. 项目材料约定 **20:00** 交付。你读完背景，写好回复。
-2. 新邮件来了：时间改成 **22:00**。
-3. 变化留在原事项里，草稿也保留，并提醒你先核对新情况，再回复。
+从小世界走进邮件房间，点开一件真实事项，看背景与建议，把回复改成自己的意思，再保存到本机。
 
-![实际应用：交付从20:00改为22:00，原草稿保留并提示核对；虚构示例数据](https://raw.githubusercontent.com/Owen-Teng/companest/main/docs/media/scene-update-detail.jpg)
+这段 30 秒视频保留了实际鼠标点击、角色动画、界面切换和保存反馈；人名、公司名称及收发件邮箱已打码。
 
-房间带你进入，黑板让你看到待处理的事，决定仍由你做。
+*实机操作剪辑，压缩了操作间隔；建议已在准备阶段生成，片中打开已有建议，不代表首次生成速度。本次只保存本地草稿，没有发送邮件。中文界面仍有 Friday 标识。*
 
-**这样的房间会让你更愿意打开工作，还是更喜欢普通列表？**
+六位助理都有场景动画，邮件是第一个可操作预览；其余五项完整流程逐版解锁。源码与安装包尚未公开。
 
-[20秒英文字幕短片](https://github.com/Owen-Teng/companest/blob/main/docs/media/companest-reddit-20s.mp4) · [项目与更多截图](https://github.com/Owen-Teng/companest)
+这样的房间会让你更愿意处理工作，还是普通列表更直接？
 
-*早期 Windows 预览；源码与安装包尚未公开。短片由原有动画及真实应用截图剪辑，使用虚构数据，不是连续操作录屏。界面为中文，旧截图仍有 Friday 字样；其他五个房间的完整流程未接通。文案由 Codex 协助，无提效或用户规模结论。*
+[Companest](https://github.com/Owen-Teng/companest) · 文案由 Codex 协助整理。

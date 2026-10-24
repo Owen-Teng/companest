@@ -6,13 +6,17 @@
 
 [简体中文](README.zh-CN.md) · [Personal profile](https://github.com/Owen-Teng) · [Product story](docs/ORIGIN.md) · [Mail capabilities](docs/MAIL-FEATURES.md)
 
-## A tiny world for work — in 20 seconds
+## 30 seconds of real interaction: enter, edit, save
 
-[Watch the captioned clip](docs/media/companest-reddit-20s.mp4) · [The story in screenshots](docs/VISUAL-INTRO.md)
+[![Real mail workflow, redacted](docs/media/companest-real-mail-30s-redacted.gif)](docs/media/companest-real-mail-30s-redacted.mp4)
 
-![Actual Companest home screen with fictional data](docs/media/companest-world.png)
+[Watch the HD recording](docs/media/companest-real-mail-30s-redacted.mp4)
 
-*Actual home screen after renaming. The window and text use the new name; original scene artwork retains Friday branding.*
+Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
+
+This 30-second recording keeps the real mouse clicks, character animation, interface transitions and save feedback. Names, company references and sender/recipient addresses are mosaicked.
+
+*Edited real desktop footage with gaps shortened. Suggestions were generated during preparation; the clip reopens them and does not demonstrate first-generation speed. The draft was saved locally; no email was sent. The Chinese interface still shows Friday branding.*
 
 ## Why build it?
 
@@ -76,17 +80,19 @@ Animation and an entry point exist; general answering is not connected.
 
 ## Mail: from a message to continued follow-up
 
-![Actual mail screenshot montage with fictional data](docs/media/mail-scenes.gif)
+[Watch the 30-second real interaction](docs/media/companest-real-mail-30s-redacted.mp4)
 
-Enter the mail room → read the matter and context → edit the draft → decide → review a later update. In the example, delivery moves from 20:00 to 22:00; the earlier draft is retained for review against the new context.
+Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 
-*Real screenshot montage from before renaming, with isolated fictional data, reading holds, and transitions; not a continuous recording. [MP4](docs/media/mail-scenes.mp4)*
+This 30-second recording keeps the real mouse clicks, character animation, interface transitions and save feedback. Names, company references and sender/recipient addresses are mosaicked.
+
+*Edited real desktop footage with gaps shortened. Suggestions were generated during preparation; the clip reopens them and does not demonstrate first-generation speed. The draft was saved locally; no email was sent. The Chinese interface still shows Friday branding.*
 
 [Implemented capabilities, five actual screens, and requirements](docs/MAIL-FEATURES.md)
 
 ## Current stage and access
 
-Windows mail preview, application 0.3.26. Matters, drafts, and follow-up are implemented. 163 Mail and optional AI suggestions require the user’s own supported setup. This presentation does not demonstrate a new live-mail or model session, and no measured productivity gain is claimed.
+Windows mail preview, application 0.3.26. Matters, drafts, and follow-up are implemented. 163 Mail and optional AI suggestions require the user’s own supported setup. The new recording uses an existing real mail matter and previously generated suggestions, ending with a locally saved draft. It does not show a fresh mailbox sync, first model generation or email delivery; no measured productivity gain is claimed.
 
 **Product information and demonstrations are public; source and installers are not publicly available yet.** [Access and data boundaries](docs/ACCESS.md)
 
