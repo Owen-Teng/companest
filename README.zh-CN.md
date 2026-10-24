@@ -8,9 +8,9 @@
 
 ## 30 秒实机操作：从进入到保存回复
 
-[![邮件助理真实操作，已脱敏](docs/media/companest-real-mail-30s-redacted.gif)](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
+[![邮件助理真实操作，已脱敏](docs/media/companest-real-mail-30s-redacted.gif)](https://github.com/Owen-Teng/companest/raw/refs/heads/main/docs/media/companest-real-mail-30s-redacted.mp4)
 
-[下载高清实录 MP4](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
+[下载高清实录 MP4](https://github.com/Owen-Teng/companest/raw/refs/heads/main/docs/media/companest-real-mail-30s-redacted.mp4)
 
 从小世界走进邮件房间，点开一件真实事项，看背景与建议，把回复改成自己的意思，再保存到本机。
 
@@ -80,7 +80,7 @@
 
 ## 邮件助理：从一封来信，到接着把事办好
 
-[下载 30 秒真实操作实录](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
+[下载 30 秒真实操作实录](https://github.com/Owen-Teng/companest/raw/refs/heads/main/docs/media/companest-real-mail-30s-redacted.mp4)
 
 从小世界走进邮件房间，点开一件真实事项，看背景与建议，把回复改成自己的意思，再保存到本机。
 
