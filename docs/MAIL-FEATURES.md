@@ -2,9 +2,9 @@
 
 ## 30 seconds of real interaction: enter, edit, save
 
-[![Real mail workflow, redacted](media/companest-real-mail-30s-redacted.gif)](media/companest-real-mail-30s-redacted.mp4)
+[![Real mail workflow, redacted](media/companest-real-mail-30s-redacted.gif)](https://github.com/Owen-Teng/companest/raw/refs/heads/main/docs/media/companest-real-mail-30s-redacted.mp4)
 
-[Watch the HD recording](media/companest-real-mail-30s-redacted.mp4)
+[Download the HD MP4](https://github.com/Owen-Teng/companest/raw/refs/heads/main/docs/media/companest-real-mail-30s-redacted.mp4)
 
 Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 

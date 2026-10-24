@@ -8,9 +8,9 @@
 
 ## 30 seconds of real interaction: enter, edit, save
 
-[![Real mail workflow, redacted](docs/media/companest-real-mail-30s-redacted.gif)](docs/media/companest-real-mail-30s-redacted.mp4)
+[![Real mail workflow, redacted](docs/media/companest-real-mail-30s-redacted.gif)](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
 
-[Watch the HD recording](docs/media/companest-real-mail-30s-redacted.mp4)
+[Download the HD MP4](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
 
 Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 
@@ -80,7 +80,7 @@ Animation and an entry point exist; general answering is not connected.
 
 ## Mail: from a message to continued follow-up
 
-[Watch the 30-second real interaction](docs/media/companest-real-mail-30s-redacted.mp4)
+[Download the 30-second real interaction](https://github.com/Owen-Teng/companest/raw/refs/heads/main//docs/media/companest-real-mail-30s-redacted.mp4)
 
 Enter the mail room from the little world, open a real matter, review its context and suggestions, edit the reply, and save the draft locally.
 
