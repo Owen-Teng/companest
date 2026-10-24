@@ -6,6 +6,10 @@
 
 [English](README.md) · [返回个人首页](https://github.com/Owen-Teng/Owen-Teng/blob/main/README.zh-CN.md) · [创意由来](docs/ORIGIN.zh-CN.md) · [邮件功能](docs/MAIL-FEATURES.zh-CN.md)
 
+## 用 20 秒看一件具体的事
+
+[看英文字幕短片](docs/media/companest-reddit-20s.mp4) · [图文介绍](docs/VISUAL-INTRO.zh-CN.md)
+
 ![伴境真实应用首页，独立虚构数据](docs/media/companest-world.png)
 
 *更名后的真实首页。窗口与文字标识已更新，原场景美术仍保留 Friday 字样。*
