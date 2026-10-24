@@ -6,6 +6,10 @@
 
 [简体中文](README.zh-CN.md) · [Personal profile](https://github.com/Owen-Teng) · [Product story](docs/ORIGIN.md) · [Mail capabilities](docs/MAIL-FEATURES.md)
 
+## A tiny world for work — in 20 seconds
+
+[Watch the captioned clip](docs/media/companest-reddit-20s.mp4) · [The story in screenshots](docs/VISUAL-INTRO.md)
+
 ![Actual Companest home screen with fictional data](docs/media/companest-world.png)
 
 *Actual home screen after renaming. The window and text use the new name; original scene artwork retains Friday branding.*
